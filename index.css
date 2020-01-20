@@ -10,7 +10,7 @@ body {
 }
 
 .flex-container {
-  margin: 200px 50px 50px 50px;
+  margin: 50px 50px 50px 50px;
   display: flex;
   height: 300px;
   background-color: white;
@@ -49,8 +49,8 @@ transform: translateY(-50px);
 
 
 .flex-container .black2 .face.face2 {
-  width: 400px;
-  height: 200px;
+  width: 200px;
+  height: 100px;
   position: relative;
   display: flex;
   background-color: #3f3f3f;
