@@ -81,8 +81,17 @@ transition: 0.5s;
   opacity: 1;
 }
 
+.flex-container .black2 .face.face2 .content {
+opacity: 0.2;
+transition: 0.5s;
+}
+
+.flex-container .black2:hover .face.face2 .content {
+  opacity: 1;
+}
+
 p {
 text-align: center;
 color: white;
-font-size: 20px;
+font-size: 14px;
 }
