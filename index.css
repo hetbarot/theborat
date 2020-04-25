@@ -13,7 +13,7 @@ body {
   margin: 50px 50px 50px 50px;
   display: flex;
   height: 300px;
-  background-color: white;
+  background-color: #6c6c6c;
   position: relative;
   justify-content: space-between;
 }
